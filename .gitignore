@@ -1,0 +1,4 @@
+/.env
+/test_base.py
+/test_text_from_image.py
+/venv
